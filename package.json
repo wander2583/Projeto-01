@@ -8,7 +8,7 @@
     "husky:prepare": "husky install",
     "test": "jest --passWithNoTests",
     "test:watch": "yarn test --watch",
-    "test:staged": "yarn test --findReLatedTests"
+    "test:staged": "yarn test --findRelatedTests"
   },
   "keywords": [],
   "author": "",
